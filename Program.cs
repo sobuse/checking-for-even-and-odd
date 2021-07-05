@@ -14,12 +14,12 @@ namespace check1
             i = int.Parse(Console.ReadLine());
             if (i % 2 == 0)
             {
-                Console.Write("Entered Number is an Even Number");
+                Console.Write(" Your  Number na Even Number");
                 Console.Read();
             }
             else
             {
-                Console.Write("Entered Number is an Odd Number");
+                Console.Write("Your Number na Odd Number");
                 Console.Read();
             }
         }
